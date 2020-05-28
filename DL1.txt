@@ -1,0 +1,72 @@
+Hello all,
+Welcome to cetpa's Deep Learning Class.
+Deep learning:
+  Brief of Artificial Intelligence :
+           Alan Turing 
+           AI winters (1970-1990)
+           1995 - till date.
+             1. Availability of high-end Hardwares
+                  GPU Nvidia-Cuda
+             2. Availability of data:
+                 What is the biggest source of data?
+                     Social Media.
+Artificial Intellegence is a big umberalla, inside which we have M.L,
+D.L-- something which works on the limitations of machine learning
+  and brings machine learning models more nearer to a.i
+Limitations of Machine Learning:
+  1. It doesn't works well on high dimension data.
+  2. we need to perform feature extraction by ourselves.
+Sir John Mccarthy , he is a computer scientist , who introduced the term A.I in the year 1956.
+IBM's Deep BLue beats the world chess champions garry kasporav.
+    How you perform in M.L?
+      Correlation between features and target variable.'
+      to find p-value and if p value < 0.05 , significant.
+I lived in france for 20 years but now i am in india and i know how to frequently speak .......? French
+Common Applications:
+  image classification
+  object detection
+  google next word predictor-- email, google docs
+  siri, cortana,alexa
+Libraries -- Tensorflow, keras, matplotlib, pandas, numpy
+What is Deep Learning?
+Deep learning is an subfield of machine learning concerned with algorithms inspired 
+by the structure and function of the brain called artificial neural networks.
+What is "deep" in deep learning?
+"Deep" in D.L stands for the idea of successive layers of representations --- how many layers contribute to a model of the data is called depth of model.
+
+Deep learning is a multistage information distillation operation, where information
+goes through successive filters and comes out increasingly "purified"
+Calculas -- prequisite
+Recipe of designing a neural network -- This is called recipe because by changing some components of the NN, we can create a completely different architectute with enhanced or reduced capabilities.
+1. Select the number of hidden layers and number of neurons.
+2. Select an activation function for every hidden layer.
+3. select a loss/cost function
+4. Select a metric for comparison
+5. select batch-size
+6.select optimizer
+7. select the no of epochs.
+Before diving deep into the deep learning lets just talk about lil bit machine
+learning.
+6 jars of Machine Learning.
+1. Data - Ammount of data 
+2. Task - Regression/classification
+3.Model - a. probabilistic m.l algorithm (naive bayes algorithm)
+          b. Kernal Based Algorithm (SVM)
+4.Loss - Error (actual pred - predicted)
+5.Learning algorithm:suppose you have some data, and you have to perform specific task on it for that you need to propose a model that will hopefully predict 
+predict the values if the input vector.
+How will you compute parameters(a,b,c), the model and the loss function?
+stochastic gradient descent(and its variants)
+Adagrad
+RMSprop.
+6. Evaluation : its like writing an exam to check if you have studied after completing the exercises in your text book.
+ 
+          
+
+
+
+
+
+
+
+
