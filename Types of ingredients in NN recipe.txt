@@ -1,0 +1,38 @@
+Hello everyone,
+Recipe for designing a neural net.
+Some important activation functions:
+1. Relu --- (rectified linear unit)
+2. leaky Relu
+3. ELU(exponential linear units)
+4. Selu (Scaled exponential Linear unit)
+5. Sigmoid function
+6. Softmax function.
+
+Common loss functions:
+1. mean Square Error (Linear Regression)
+2. Binary cross entropy (Binary classification)
+3. Categorical loss function ----- (N-ary classification)
+
+Common optimizers:
+1. stochastic Gradient Descent
+2. Momentum
+3. NAG(nesterov accelerated gradient)
+4. RMSProp
+5.Adam (Adaptive momentum)
+
+Metrics for comparison:
+Accuracy --- confusion Matrix
+ = sum of diagonal element / Total no. of elements.
+
+Batch- size = 128 or 256 -- it can be multiple of 2.
+Epochs = No. of epoch means the number of times the backpropogation
+         algorithm is allowed to tweak the gradients of the network.
+
+Although there are some guidelines to choose ingredients for some
+problems but mostly it is hit and trial.
+Neural networks are considered as black box because it is 
+extremely difficult to tell what patterns works for them.
+
+
+
+
